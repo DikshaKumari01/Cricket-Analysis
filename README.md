@@ -1,5 +1,4 @@
 # IPL 2024: RCB vs DC Match Analysis
-
 In-depth analysis of the thrilling IPL 2024 match between Royal Challengers Bangalore (RCB) and Delhi Capitals (DC).
 This project dives into player performances, team strategies, and key moments to provide insights into the game.
 
